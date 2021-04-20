@@ -1,2 +1,2 @@
 import os
-print(os.environ['HEROKU_APP_NAME'])
+print(os.environ)
